@@ -24,14 +24,15 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 # Backend Technologies
 
-* Node.js
-* Express
-* MongoDB
-* MySQL – Sequelize
+* Node.js ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=24)
+* Express ![express](https://www.readmecodegen.com/api/social-icon?name=express&size=24&color=%233b82f6)
+* MongoDB ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=24)
+* MySQL – Sequelize ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=24)
+* Redis ![redis](https://www.readmecodegen.com/api/social-icon?name=redis&size=24)
 
 # Interests
 
-* Programming
+* Programming ![code](https://www.readmecodegen.com/api/social-icon?name=code&size=24)
 * Microprocessors & Embedded Systems
 * Cryptography
 * Internet of Things (IoT)
@@ -40,14 +41,14 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 # Currently Learning
 
-* TypeScript
+* TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
 
 # Planning to Learn
 
-* Linux
-* Docker
-* Kubernetes
-* NestJS
+* Linux ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
+* Docker ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=24)
+* Kubernetes ![kubernetes](https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=24)
+* NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
 
 ## 🚀 My Public Projects
 
@@ -62,7 +63,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ---
 
 Let's explore this amazing world together.
-Feel free to check out my projects and send a pull request if you'd like to contribute ❤
+Feel free to check out my projects and send a pull request if you'd like to contribute ![pray](https://www.readmecodegen.com/api/social-icon?name=pray&size=16)❤
 
 <!--
 **Mohammad-Khiabani/Mohammad-Khiabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
