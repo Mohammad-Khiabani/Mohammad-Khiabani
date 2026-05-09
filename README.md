@@ -1,28 +1,28 @@
 <img width="921" height="189" alt="Image" src="https://github.com/user-attachments/assets/cb1fd119-a5c2-4b74-a5df-7a1a6dbd2931" />
 
-# A Brief Introduction About Me
+# A Brief Introduction About Me 🙂
 
 Hello to anyone visiting this page!
 If you're here to get to know me, I'm Mohammad Khiabani from Iran, a JavaScript developer focused on backend development.
 
 I love creative coding and I always try to solve problems using different approaches and new ideas. Challenging projects feel like puzzle games to me.
 
-## My Coding Philosophy
+## My Coding Philosophy 💭
 
 Writing clean, optimized code, following Clean Architecture, Clean Code principles, and SOLID concepts is something I truly care about. I want people who look at my code to feel the passion behind it, and I also enjoy sharing what I learn with others and inspiring them to become interested in programming.
 
-## Mindset
+## Mindset 🧠
 
 Whenever a new idea comes to my mind, I immediately start building it. I believe every idea deserves at least one chance to become real. Either it works and I benefit from the result, or it fails and teaches me something new. I'm naturally attracted to ideas and problems that receive less attention from others.
 
-# Technologies & Skills
+# Technologies & Skills 🛠
 
 * HTML & CSS ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=24) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=24)
 * JavaScript (ES6+) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=24)
 * Python ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
 * Git & GitHub ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=24) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=24)
 
-# Backend Technologies
+# Backend Technologies 🚪
 
 * Node.js ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=24)
 * Express ![express](https://www.readmecodegen.com/api/social-icon?name=express&size=24&color=%233b82f6)
@@ -30,7 +30,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 * MySQL – Sequelize ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=24)
 * Redis ![redis](https://www.readmecodegen.com/api/social-icon?name=redis&size=24)
 
-# Interests
+# Interests 🚶🏻‍♂️
 
 * Programming ![code](https://www.readmecodegen.com/api/social-icon?name=code&size=24)
 * Microprocessors & Embedded Systems
@@ -39,18 +39,18 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 * Electronics
 * Micro Drones
 
-# Currently Learning
+# Currently Learning 👨🏻‍🎓
 
 * TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
 
-# Planning to Learn
+# Planning to Learn 🎯
 
 * Linux ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
 * Docker ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=24)
 * Kubernetes ![kubernetes](https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=24)
 * NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
 
-## 🚀 My Public Projects
+## 🚀 My Public Projects 🔓
 
 | Project                                                                   | Description                                                                                                                                  |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
