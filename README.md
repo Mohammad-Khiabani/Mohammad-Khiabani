@@ -17,10 +17,10 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 # Technologies & Skills
 
-* HTML & CSS
-* JavaScript (ES6+)
-* Python
-* Git & GitHub
+* HTML & CSS ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=24) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96)
+* JavaScript (ES6+) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=24)
+* Python ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
+* Git & GitHub ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=24) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=24)
 
 # Backend Technologies
 
