@@ -1,5 +1,6 @@
 <img width="921" height="189" alt="Image" src="https://github.com/user-attachments/assets/cb1fd119-a5c2-4b74-a5df-7a1a6dbd2931" />
 
+![Status](https://img.shields.io/badge/Status-Freelance%20&%20Available%20for%20work-brightgreen?style=for-the-badge&logo=github)
 # A Brief Introduction About Me 🙂
 
 Hello to anyone visiting this page!
