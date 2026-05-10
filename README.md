@@ -20,7 +20,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 * HTML & CSS ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=24) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=24)
 * JavaScript (ES6+) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=24)
-* Python ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
+* Python(Basic) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
 * Git & GitHub ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=24) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=24)
 
 # Backend Technologies 🚪
@@ -43,13 +43,13 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 # Currently Learning 👨🏻‍🎓
 
 * TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
+* Linux internals ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
 
 # Planning to Learn 🎯
 
-* Linux ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
+* NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
 * Docker ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=24)
 * Kubernetes ![kubernetes](https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=24)
-* NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
 
 ## 🚀 My Public Projects 🔓
 
@@ -66,17 +66,8 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 Let's explore this amazing world together.
 Feel free to check out my projects and send a pull request if you'd like to contribute ![pray](https://www.readmecodegen.com/api/social-icon?name=pray&size=16)❤
 
-<!--
-**Mohammad-Khiabani/Mohammad-Khiabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact ☎
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&size=32)](mhammad.khy@gmail.com)** 
+**[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=32)](https://instagram.com/say.mhammad)** 
+**[![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&size=32)](https://t.me/mhamad_khy)**
