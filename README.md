@@ -57,13 +57,13 @@ Let's explore this amazing world together.
 Feel free to check out my projects and send a pull request if you'd like to contribute ![pray](https://www.readmecodegen.com/api/social-icon?name=pray&size=16)❤
 
 | # | Project                                                                   | Description                                                                                                                                  |
-|1 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2 | **[Enigma-Machine](https://github.com/Mohammad-Khiabani/Enigma-Machine)** | Customizable Enigma Machine simulator built with JavaScript. Includes rotor wiring, reflector logic, and full encryption flow.               |
-| 3 | **[Get-hub](https://github.com/Mohammad-Khiabani/Get-hub)**               | A Node.js CLI tool for browsing and downloading packages from your GitHub repositories.                                                      |
-| 4 | **[Node-Rix](https://github.com/Mohammad-Khiabani/Node-Rix)**             | A Matrix-style digital rain terminal simulator for Node.js. Perfect for developers who want to make their terminal look cooler while coding. |
-| 5 | **[Luhn-Algorithm](https://github.com/Mohammad-Khiabani/Luhn-Algorithm)** | A clean JavaScript implementation of the Luhn Algorithm for credit card validation, featuring modular code, a simple UI, and Jest tests.     |
-| 6 | **[Telegraph-js](https://github.com/Mohammad-Khiabani/Telegraph-js)**     | A telegraph simulator built with JavaScript, HTML, and CSS. Recreates how classic telegraph systems worked using Morse code timing.          |
-| 7 | **[ByeBye-follower](https://github.com/Mohammad-Khiabani/ByeBye-follower)** | A Node.js/Express application that analyzes Instagram follower data by processing JSON exports. Extracts followers, following, and non-followers statistics, providing full CRUD operations via a simulated JSON-based database. Built with EJS for dynamic UI rendering and interactive data management. |
+|---| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **[Enigma-Machine](https://github.com/Mohammad-Khiabani/Enigma-Machine)** | Customizable Enigma Machine simulator built with JavaScript. Includes rotor wiring, reflector logic, and full encryption flow.               |
+| 2 | **[Get-hub](https://github.com/Mohammad-Khiabani/Get-hub)**               | A Node.js CLI tool for browsing and downloading packages from your GitHub repositories.                                                      |
+| 3 | **[Node-Rix](https://github.com/Mohammad-Khiabani/Node-Rix)**             | A Matrix-style digital rain terminal simulator for Node.js. Perfect for developers who want to make their terminal look cooler while coding. |
+| 4 | **[Luhn-Algorithm](https://github.com/Mohammad-Khiabani/Luhn-Algorithm)** | A clean JavaScript implementation of the Luhn Algorithm for credit card validation, featuring modular code, a simple UI, and Jest tests.     |
+| 5 | **[Telegraph-js](https://github.com/Mohammad-Khiabani/Telegraph-js)**     | A telegraph simulator built with JavaScript, HTML, and CSS. Recreates how classic telegraph systems worked using Morse code timing.          |
+| 6 | **[ByeBye-follower](https://github.com/Mohammad-Khiabani/ByeBye-follower)** | A Node.js/Express application that analyzes Instagram follower data by processing JSON exports. Extracts followers, following, and non-followers statistics, providing full CRUD operations via a simulated JSON-based database. Built with EJS for dynamic UI rendering and interactive data management. |
 
 ---
 
