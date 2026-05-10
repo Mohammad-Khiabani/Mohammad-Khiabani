@@ -63,6 +63,7 @@ Feel free to check out my projects and send a pull request if you'd like to cont
 | **[Node-Rix](https://github.com/Mohammad-Khiabani/Node-Rix)**             | A Matrix-style digital rain terminal simulator for Node.js. Perfect for developers who want to make their terminal look cooler while coding. |
 | **[Luhn-Algorithm](https://github.com/Mohammad-Khiabani/Luhn-Algorithm)** | A clean JavaScript implementation of the Luhn Algorithm for credit card validation, featuring modular code, a simple UI, and Jest tests.     |
 | **[Telegraph-js](https://github.com/Mohammad-Khiabani/Telegraph-js)**     | A telegraph simulator built with JavaScript, HTML, and CSS. Recreates how classic telegraph systems worked using Morse code timing.          |
+| **[ByeBye-follower](https://github.com/Mohammad-Khiabani/ByeBye-follower)** | A Node.js/Express application that analyzes Instagram follower data by processing JSON exports. Extracts followers, following, and non-followers statistics, providing full CRUD operations via a simulated JSON-based database. Built with EJS for dynamic UI rendering and interactive data management. |
 
 ---
 
