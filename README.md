@@ -53,6 +53,9 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 ## 🚀 My Public Projects 🔓
 
+Let's explore this amazing world together.
+Feel free to check out my projects and send a pull request if you'd like to contribute ![pray](https://www.readmecodegen.com/api/social-icon?name=pray&size=16)❤
+
 | Project                                                                   | Description                                                                                                                                  |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Enigma-Machine](https://github.com/Mohammad-Khiabani/Enigma-Machine)** | Customizable Enigma Machine simulator built with JavaScript. Includes rotor wiring, reflector logic, and full encryption flow.               |
@@ -62,9 +65,6 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 | **[Telegraph-js](https://github.com/Mohammad-Khiabani/Telegraph-js)**     | A telegraph simulator built with JavaScript, HTML, and CSS. Recreates how classic telegraph systems worked using Morse code timing.          |
 
 ---
-
-Let's explore this amazing world together.
-Feel free to check out my projects and send a pull request if you'd like to contribute ![pray](https://www.readmecodegen.com/api/social-icon?name=pray&size=16)❤
 
 ## Contact ☎
 
