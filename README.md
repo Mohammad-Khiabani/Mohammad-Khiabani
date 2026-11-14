@@ -22,6 +22,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 * JavaScript (ES6+) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=24)
 * Python(Basic) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
 * Git & GitHub ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=24) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=24)
+* Windows Batch Scripting ![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=24)
 
 # Backend Technologies 🚪
 
@@ -42,11 +43,11 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 # Currently Learning 👨🏻‍🎓
 
-* TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
-* Linux internals ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
+* Linux Essentials ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
 
 # Planning to Learn 🎯
 
+* TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
 * NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
 * Docker ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=24)
 * Kubernetes ![kubernetes](https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=24)
