@@ -1,4 +1,5 @@
-<img width="921" height="189" alt="Image" src="https://github.com/user-attachments/assets/cb1fd119-a5c2-4b74-a5df-7a1a6dbd2931" />
+<!-- <img width="921" height="189" alt="Image" src="https://github.com/user-attachments/assets/cb1fd119-a5c2-4b74-a5df-7a1a6dbd2931" /> -->
+<img width="921" height="189" alt="github_contributions_green_swap_slow" src="https://github.com/user-attachments/assets/0ecf48a5-af7e-4865-be2b-36e234fa9838" />
 
 ![Status](https://img.shields.io/badge/Status-Freelance%20&%20Available%20for%20work-brightgreen?style=for-the-badge&logo=github)
 # A Brief Introduction About Me 🙂
