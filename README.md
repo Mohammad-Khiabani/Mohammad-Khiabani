@@ -68,10 +68,9 @@ Feel free to check out my projects and send a pull request if you'd like to cont
 | 6 | **[ByeBye-follower](https://github.com/Mohammad-Khiabani/ByeBye-follower)** | A Node.js/Express application that analyzes Instagram follower data by processing JSON exports. Extracts followers, following, and non-followers statistics, providing full CRUD operations via a simulated JSON-based database. Built with EJS for dynamic UI rendering and interactive data management. |
 | 7 | **[Microcontroller-relay-circuit](https://github.com/Mohammad-Khiabani/Microcontroller-relay-circuit)** | Step-by-step relay driver circuit designs for "microcontrollers" and "IOT" projects using internal and external power supplies. |
 
----
-
 ## Contact ☎
 
-**[![envelope](https://www.readmecodegen.com/api/social-icon?name=envelope&size=32)](mhammad.khy@gmail.com)** 
-**[![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=32)](https://instagram.com/say.mhammad)** 
-**[![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&size=32)](https://t.me/mhamad_khy)**
+**[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhammad.khy@gmail.com)**
+**[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhammad.khy@gmail.com)**
+**[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhamad_khy)**
+**[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khiabani_mh)**
