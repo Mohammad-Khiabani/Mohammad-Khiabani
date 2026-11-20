@@ -29,7 +29,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   * Windows Batch Scripting ![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=24)
 
-## Librarry/Frameworks and Runtimes
+## Frontend Frameworks
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
@@ -46,7 +46,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
   ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-# System Control versions
+# Version Control Systems
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
