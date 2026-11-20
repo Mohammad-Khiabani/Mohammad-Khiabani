@@ -18,20 +18,38 @@ Writing clean, optimized code, following Clean Architecture, Clean Code principl
 Whenever a new idea comes to my mind, I immediately start building it. I believe every idea deserves at least one chance to become real. Either it works and I benefit from the result, or it fails and teaches me something new. I'm naturally attracted to ideas and problems that receive less attention from others.
 
 # Technologies & Skills 🛠
+  
+  ## Markup Languages
+  ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+  
+  ## Languages
+  
+  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  * Windows Batch Scripting ![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=24)
 
-* HTML & CSS ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=24) ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=24)
-* JavaScript (ES6+) ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=24)
-* Python(Basic) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=24&color=%2310b981)
-* Git & GitHub ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=24) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=24)
-* Windows Batch Scripting ![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=24)
+## Librarry/Frameworks and Runtimes
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 # Backend Technologies 🚪
 
-* Node.js ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=24)
-* Express ![express](https://www.readmecodegen.com/api/social-icon?name=express&size=24&color=%233b82f6)
-* MongoDB ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=24)
-* MySQL – Sequelize ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=24)
-* Redis ![redis](https://www.readmecodegen.com/api/social-icon?name=redis&size=24)
+  ## Runtime/Frameworks/Libraries
+  ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![PUG](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
+  
+  ## Databases
+  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+  ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+# System Control versions
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 # Interests 🚶🏻‍♂️
 
@@ -44,14 +62,15 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 
 # Currently Learning 👨🏻‍🎓
 
-* Linux Essentials ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=24)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 # Planning to Learn 🎯
 
-* TypeScript ![typescript](https://www.readmecodegen.com/api/social-icon?name=typescript&size=24)
-* NestJS ![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=24)
-* Docker ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=24)
-* Kubernetes ![kubernetes](https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=24)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🚀 My Public Projects 🔓
 
@@ -74,3 +93,4 @@ Feel free to check out my projects and send a pull request if you'd like to cont
 **[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhammad.khy@gmail.com)**
 **[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhamad_khy)**
 **[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khiabani_mh)**
+**[![Theads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/say.mhammad)**
