@@ -18,42 +18,118 @@ Writing clean, optimized code, following Clean Architecture, Clean Code principl
 Whenever a new idea comes to my mind, I immediately start building it. I believe every idea deserves at least one chance to become real. Either it works and I benefit from the result, or it fails and teaches me something new. I'm naturally attracted to ideas and problems that receive less attention from others.
 
 # Technologies & Skills 🛠
-  
-  ## Markup Languages
-  ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-  
-  ## Languages
-  
-  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  * Windows Batch Scripting ![windows](https://www.readmecodegen.com/api/social-icon?name=windows&size=24)
 
-## Frontend Frameworks
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Languages
 
+<table>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    </th>
+    <th>
+      Windows Batch Script
+      <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=24" />
+    </th>
+  </tr>
+</table>
 
-# Backend Technologies 🚪
+## Front End
 
-  ## Runtime/Frameworks/Libraries
-  ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![PUG](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-  
-  ## Databases
-  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+  <table>
+    <tr>
+      <th>Markup Languages</th>
+      <th>Frameworks</th>
+    </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+    </td>
+    <td> --- </td>
+  </tr>
+</table>
 
-  ## ORMs
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+## BackEnd
 
-# Version Control Systems
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <th>Library</th>
+    <th> Runtime </th>
+    <th> Template Engine </th>
+    <th> Databases </th>
+    <th> ORM </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" />
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td> --- </td>
+    <td> --- </td>
+    <td>
+      EJS
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td> --- </td>
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+    <td>Handlebars(hbs)</td>
+    <td>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+    </td>
+    <td> --- </td>
+  </tr>
+</table>
 
-# Package Managers
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+## Version Control Systems
+
+<table>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </th>
+  </tr>
+</table>
+
+## Package Manager
+
+<table>
+  <tr>
+    <th>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    </th>
+  </tr>
+</table>
 
 ---
 
