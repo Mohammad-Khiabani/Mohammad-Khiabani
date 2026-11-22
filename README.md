@@ -22,7 +22,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ## Languages
 
 <table>
-  <tr>
+  <tr align="center" >
     <th>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </th>
@@ -39,11 +39,11 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ## Front End
 
   <table>
-    <tr>
+    <tr align="center" >
       <th>Markup Languages</th>
       <th>Frameworks</th>
     </tr>
-  <tr>
+  <tr align="center" >
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </td>
@@ -51,7 +51,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     </td>
   </tr>
-  <tr>
+  <tr align="center" >
     <td>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
     </td>
@@ -62,14 +62,14 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ## BackEnd
 
 <table>
-  <tr>
+  <tr align="center" >
     <th>Library</th>
     <th> Runtime </th>
     <th> Template Engine </th>
     <th> Databases </th>
     <th> ORM </th>
   </tr>
-  <tr>
+  <tr align="center" >
     <td>
       <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
     </td>
@@ -86,7 +86,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
     </td>
   </tr>
-  <tr>
+  <tr align="center" >
     <td> --- </td>
     <td> --- </td>
     <td>
@@ -97,7 +97,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
     </td>
     <td> --- </td>
   </tr>
-  <tr>
+  <tr align="center" >
     <td>---</td>
     <td>---</td>
     <td>Handlebars(hbs)</td>
@@ -111,7 +111,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ## Version Control Systems
 
 <table>
-  <tr>
+  <tr align="center" >
     <th>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     </th>
@@ -124,7 +124,7 @@ Whenever a new idea comes to my mind, I immediately start building it. I believe
 ## Package Manager
 
 <table>
-  <tr>
+  <tr align="center" >
     <th>
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     </th>
